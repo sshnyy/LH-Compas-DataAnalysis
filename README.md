@@ -16,7 +16,8 @@
   
 <summary>📃 논문지(KCI등재)</summary> 
 
-  - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426
+  - KCI : https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426
+  - 원문보기 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983&language=ko_KR&hasTopBanner=true
 
 </details>
 
