@@ -2,25 +2,18 @@
 
 ### 밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화
 
-- LH Compas 제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회
-- 한국멀티미디어학회 논문지
+- LH Compas 제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회 | 한국멀티미디어학회 논문지
 
-<details>
-<summary>🏆 대상(LH 사장상)</summary> 
+  <summary>🏆 <b>대상(LH 사장상)</b></summary> 
 
-  <img src="https://github.com/sshnyy/LH-Compas-DataAnalysis/assets/99328827/71e2812b-816b-4753-af8a-f9c4fd1520c3" height="600">
-
-</details>
-
-<details>
+    <img src="https://github.com/sshnyy/LH-Compas-DataAnalysis/assets/99328827/71e2812b-816b-4753-af8a-f9c4fd1520c3" height="500">
   
-<summary>📃 논문지(KCI등재)</summary> 
+  <summary>📃 논문지(KCI등재)</summary> 
+  
+    - KCI보기 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
+    - 원문보기: [DBPIA-링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983)
 
-  - KCI보기 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
-  - 원문보기: [DBPIA-링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983)
-
-
-</details>
+<br>
 
 - 사용 언어: `Python`, `Pandas`
 - 사용 환경 : `Ubuntu 22.04`
