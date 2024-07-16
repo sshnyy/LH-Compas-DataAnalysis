@@ -8,37 +8,38 @@
 
     <img src="https://github.com/sshnyy/LH-Compas-DataAnalysis/assets/99328827/71e2812b-816b-4753-af8a-f9c4fd1520c3" height="500">
   
-  <summary>📃 논문지(KCI등재)</summary> 
+  <summary>📃 <b>논문지(KCI등재)</b>b></summary> 
   
     - KCI보기 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
     - 원문보기: [DBPIA-링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983)
 
-<br>
-
-- 사용 언어: `Python`, `Pandas`
-- 사용 환경 : `Ubuntu 22.04`
   
 <br>
 
 ## Project
 
+- 사용 언어: `Python`, `Pandas`
+- 사용 환경 : `Ubuntu 22.04`
+
+```
     Team: 2명
     
     My Roles:
       - 프로젝트 리딩
       - 데이터 추출 및 분석
       - AI(머신러닝: 밀도기반 군집분석)을 활용한 위치 최적화
+```
 
 <strong> Part 1</strong>: 
-
+```
      Date : 2023.06 ~ 2023.08 (2개월)
      Summary: LH Compas
-     
+``` 
 <strong> Part 2</strong>: 내용 추가 및 보완
-
+```
      Date : 2023.09 ~ 2024.01 (3개월)
      Summary: 논문지(KCI등재)
-
+```
 <br>
 
 ## Summary
