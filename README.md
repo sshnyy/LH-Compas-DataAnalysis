@@ -8,7 +8,7 @@
 
     <img src="https://github.com/sshnyy/LH-Compas-DataAnalysis/assets/99328827/71e2812b-816b-4753-af8a-f9c4fd1520c3" height="500">
   
-  <summary>📃 <b>논문지(KCI등재)</b>b></summary> 
+  <summary>📃 논문지(KCI등재)</summary> 
   
     - KCI보기 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
     - 원문보기: [DBPIA-링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983)
