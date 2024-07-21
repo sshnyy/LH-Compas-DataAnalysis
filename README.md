@@ -20,7 +20,7 @@
 
 ## 📚 Project
 
-- 기술 스택: `Ubuntu 22.04`, `Python`, `QGIS`
+- 기술 스택: `Python`, `QGIS`
 
 ```
     Team: 2명
