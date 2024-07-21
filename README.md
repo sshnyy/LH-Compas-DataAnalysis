@@ -1,12 +1,14 @@
-# 🏆 LH-Compas-DataAnalysis
+# LH-Compas-DataAnalysis
 
-### 밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화
+## 👩‍🦼 밀도기반 군집분석을 활용한 전동휠체어 충전소 위치 최적화
 
-- LH Compas 제3회 빅데이터로 우리동네 문제해결 아이디어 공모대회 | 한국멀티미디어학회 논문지
+- LH Compas 공모대회 | 한국멀티미디어학회 논문지
 
   <summary>🏆 <b>대상(LH 사장상)</b></summary> 
-
+  
     <img src="https://github.com/sshnyy/LH-Compas-DataAnalysis/assets/99328827/71e2812b-816b-4753-af8a-f9c4fd1520c3" height="500">
+
+  <br>
   
   <summary>📃 논문지(KCI등재)</summary> 
   
@@ -16,10 +18,9 @@
   
 <br>
 
-## Project
+## 📚 Project
 
-- 사용 언어: `Python`, `Pandas`
-- 사용 환경 : `Ubuntu 22.04`
+- 기술 스택: `Ubuntu 22.04`, `QGIS`, `Python`
 
 ```
     Team: 2명
@@ -42,9 +43,9 @@
 ```
 <br>
 
-## Summary
+## 👀 Summary
 
-- 본 연구에서는 전동휠체어 충전소의 수요 대비 공급이 부족한 상황과 운영시간의 제한을 해결합니다.
+- 전동휠체어 충전소의 수요 대비 공급이 부족한 상황과 운영시간의 제한을 해결합니다.
 - 입지 결정을 위해 요인평정법(FRM, Factor Rating Method)을 활용하여 수요지수 점수를 제안하였습니다.
 - 밀도기반 군집분석을 활용하여 실외 공중전화 부스를 대상으로 충전시설에 적합한 위치 최적화 방법을 제안하였습니다.
 
