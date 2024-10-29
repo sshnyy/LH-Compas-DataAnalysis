@@ -8,8 +8,8 @@
 
 ## 📚 Project
 
-- 기술 스택: `QGIS`, `Python`
-- 역할: 데이터 분석/가공, ML
+- Skill : `QGIS`, `Python`
+- Role : 데이터 분석/가공, ML
 
 <strong> Part 1</strong>: 
 ```
