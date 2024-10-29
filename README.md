@@ -2,9 +2,7 @@
 
 - LH Compas 공모대회 | 한국멀티미디어학회 논문지(KCI 등재)
 - 🏆 <b>대상(LH 사장상)</b>
-    - KCI보기 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
-    - 원문보기: [DBPIA-링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699983)
-
+    - KCI 논문지 : [KCI-링크](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048426)
   
 <br>
 
